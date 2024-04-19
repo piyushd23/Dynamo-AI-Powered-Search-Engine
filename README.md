@@ -1,3 +1,6 @@
+Dynamo : AI Powered Search Engine 
+
+
 - get your google apikey & Huggingface Stable diffusion apikey
   enter the key in appropriate position
   
