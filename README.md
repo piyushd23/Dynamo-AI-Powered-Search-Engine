@@ -13,7 +13,7 @@ Multi-Modality: Users can seamlessly switch between text, audio, and image searc
 
 Getting Started
 To set up the project locally, follow these steps:
-Clone the repository: git clone https://github.com/your-username/dynamo-search-engine.git
+Clone the repository: git clone https://github.com/piyushd23/Dynamo-AI-Powered-Search-Engine/tree/main
 Obtain the Google Gemini API key for text and audio search.
 Obtain the HuggingFace stable diffusion API key for image generation.
 Set up the API keys in the project configuration.
