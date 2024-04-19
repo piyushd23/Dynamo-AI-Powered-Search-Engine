@@ -20,7 +20,7 @@ def generate_image(prompt):
     # send query to Stable Diffusion  API and get the image back as a binary file
     response = requests.post(
         "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0",
-        headers={"Authorization": "Bearer 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"},
+        headers={"Authorization": "Bearer YOUR_API_KEY_HERE"},
         json={"inputs": prompt}
     )
     if response:
