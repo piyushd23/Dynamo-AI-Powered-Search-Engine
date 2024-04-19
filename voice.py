@@ -38,7 +38,7 @@ def voice():
 
 st.title("Dynamo AI 🎙")
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyCzQwDWn-Kftv7tsOl5lxBKSZml48DsRX8"
+os.environ['GOOGLE_API_KEY'] = "YOUR_API_KEY_HERE"
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 
