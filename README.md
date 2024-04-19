@@ -1,4 +1,4 @@
-DYNAMO: AI-Powered Search Engine
+#DYNAMO: AI-Powered Search Engine
 Welcome to the DYNAMO repository! DYNAMO is an advanced search engine that leverages AI capabilities for text, audio, and image search functionalities.
 
 Overview
